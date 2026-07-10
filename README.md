@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Jaivardhan Akhani
 
-<!--
-**akhanijaivardhan-Git/akhanijaivardhan-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I am passionate about building modern and responsive websites using HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 🛠 Skills
+- HTML5
+- CSS3
+- Responsive Design
+- Git & GitHub
+
+### 🎯 Goals
+- Become a Full Stack Developer
+- Build Professional Projects
+- Work as a Freelancer
+- Get a Frontend Developer Internship
+
+### 📫 Connect with Me
+- GitHub: https://github.com/akhanijaivardhan-Git
+
+⭐ Thanks for visiting my profile!
