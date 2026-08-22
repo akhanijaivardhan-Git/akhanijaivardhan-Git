@@ -13,6 +13,7 @@ I am passionate about building modern and responsive websites using HTML, CSS, a
 ### 🛠 Skills
 - HTML5
 - CSS3
+- JavaScript
 - Responsive Design
 - Git & GitHub
 
